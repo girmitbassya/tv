@@ -1,10 +1,11 @@
-#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
-#EXTINF:-1 tvg-id="1"tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png"group-title="Sports",Star Sports 1 (4K)
-http://xtv.ooo:8080/vEVDpb2BEpA9/JXMDLYmqJGaT/109987
-#EXTINF:-1 tvg-id="2"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"group-title="Sports",Star Sports 2 (4K)
-http://xtv.ooo:8080/vEVDpb2BEpA9/JXMDLYmqJGaT/109988
-#EXTINF:-1 tvg-id="3"tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png"group-title="Sports",Star Sports Select 1 (4K)
-http://xtv.ooo:8080/vEVDpb2BEpA9/JXMDLYmqJGaT/109993
+﻿#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="1"tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png"group-title="Sports",Star Sports 1
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/3979
+#EXTINF:-1 tvg-id="2"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"group-title="Sports",Star Sports 2
+
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/397844
+#EXTINF:-1 tvg-id="3"tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png"group-title="Sports",Star Sports 3
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/3977
 #EXTINF:-1 tvg-id="291"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"group-title="Entertainment",Sony HD
 http://localhost:8080/tsjiotv/live.php?c=Sony_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="167"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"group-title="Entertainment",Zee TV HD
@@ -1072,7 +1073,7 @@ http://localhost:8080/tsjiotv/live.php?c=Insight&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1162"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png"group-title="Infotainment",Prime Asia HD
 http://localhost:8080/tsjiotv/live.php?c=Prime_Asia_Tv&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="158"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png"group-title="Entertainment",Star Plus HD IP
-http://localhost:8080/tsjiotv/live.php?c=Star_Plus_HD&q=1200&e=junk.m3u8
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/672450
 #EXTINF:-1 tvg-id="367"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png"group-title="Entertainment",Star Utsav HD
 http://localhost:8080/tsjiotv/live.php?c=Star_Utsav&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="443"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png"group-title="Entertainment",Asianet HD
