@@ -1078,7 +1078,7 @@ http://localhost:8080/tsjiotv/live.php?c=Asianet_Movies_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="460"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png"group-title="Sports",Star Sports Select HD1
 http://localhost:8080/tsjiotv/live.php?c=Star_Sports_Select_HD_1&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="159"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png"group-title="Sports",Star Sports 1
-https://rana-pk.xyz/STARx/app/master.php?id=14000&e=.m3u8
+http://starshare.live:8080/live/8801715014415/8801715014415/148.ts
 #EXTINF:-1 tvg-id="160"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png"group-title="Sports",Star Sports 2
 https://rana-pk.xyz/STARx/app/master.php?id=48103&e=.m3u8
 #EXTINF:-1 tvg-id="362"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png"group-title="Sports",Star Sports Hindi 1
