@@ -1,10 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="1"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sun_udaya_tv.png"group-title="Kannada",Udaya
-https://rana-pk.xyz/STARx/app/master.php?id=47841&e=.m3u8
+https://rana-pk.xyz/STARz/app/master.php?id=47841&e=.m3u8
 #EXTINF:-1 tvg-id="2"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png"group-title="Kannada",Udaya Comedy
-https://rana-pk.xyz/STARx/app/master.php?id=47843&e=.m3u8
+https://rana-pk.xyz/STARz/app/master.php?id=47843&e=.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png"group-title="Kannada",Zere Kannada HD
-https://rana-pk.xyz/STARx/app/master.php?id=47851&e=.m3u8
+https://rana-pk.xyz/STARz/app/master.php?id=47851&e=.m3u8
 #EXTINF:-1 tvg-id="430"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png"group-title="Sports",Jio Cricket HD
 http://localhost:8080/tsjiotv/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1918"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png"group-title="Sports",Jio Cricket English HD
