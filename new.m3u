@@ -4,7 +4,7 @@ http://209.58.178.169:8002/play/a05g
 #EXTINF:-1  tvg-id="2" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png" group-title="Kannada",Udaya Comedy
 https://rana-pk.xyz/STARz/app/master.php?id=47843&e=.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada",Zee Kannada HD
-https://rana-pk.xyz/STARz/app/master.php?id=47851&e=.m3u8
+http://iptvmedia.live:8080/4467299f/8b713e1a54/145631
 #EXTINF:-1  tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://localhost:8080/tsjiotv/live.php?c=Colors_HD&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD
