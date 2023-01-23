@@ -176,7 +176,7 @@ http://localhost:8080/tsjiotv/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr.
 http://localhost:8080/tsjiotv/live.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD IP
-https://rana-pk.xyz/STARx/app/master.php?id=48109&e=.m3u8
+http://xtv.ooo:8080/754456646/175557577/109949
 #EXTINF:-1  tvg-id="90" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="Entertainment",Star Utsav HD
 http://localhost:8080/tsjiotv/live.php?c=Star_Utsav&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="91" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" group-title="Entertainment",Star Vijay HD
