@@ -48,7 +48,7 @@ http://localhost:8080/tsjiotv/live.php?c=Sony_Pal&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD
 http://localhost:8080/tsjiotv/live.php?c=Sony_SAB_HD&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Entertainment",Colors Kannada HD
-http://localhost:8080/tsjiotv/live.php?c=Colors_Kannada_HD&q=1200&e=junk.m3u8
+http://xtv.ooo:8080/754456646/175557577/244731
 #EXTINF:-1  tvg-id="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Kannada",Zee Kannada
 http://localhost:8080/tsjiotv/live.php?c=Zee_Kannada&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD
@@ -116,7 +116,7 @@ http://localhost:8080/tsjiotv/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="58" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nickelodeon
 http://localhost:8080/tsjiotv/live.php?c=Nickelodeo&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="59" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="Sports",Star Ports 2 HD
-http://lionboxiptv.xyz:80/Novatv123/Novatv123/15726
+http://xtv.ooo:8080/754456646/175557577/109988
 #EXTINF:-1  tvg-id="60" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="Sports",Star Sports 1 HD
 http://xtv.ooo:8080/754456646/175557577/109987
 #EXTINF:-1  tvg-id="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English
@@ -142,7 +142,7 @@ http://localhost:8080/tsjiotv/live.php?c=DD9_chandana_kannada&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="71" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="Kannada News",Dighvijay TV
 http://localhost:8080/tsjiotv/live.php?c=Dighvijay_TV&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="72" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="Kids",Disney
-http://localhost:8080/tsjiotv/live.php?c=Zee_Kalinga&q=1200&e=junk.m3u8
+http://xtv.ooo:8080/754456646/175557577/167551
 #EXTINF:-1  tvg-id="73" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="News",News18 Gujarati
 http://localhost:8080/tsjiotv/live.php?c=ETV_News_Gujarati&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="74" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Good News Today
