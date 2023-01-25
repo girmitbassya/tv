@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-1  tvg-id="1" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sun_udaya_tv.png" group-title="Kannada",Udaya
-http://starshare.live:8080/live/Samantha/Samantha/98889.ts
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/1002.ts
 #EXTINF:-1  tvg-id="2" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png" group-title="Kannada",Udaya Comedy
 http://starshare.live:8080/live/Samantha/Samantha/98889.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada",Zee Kannada HD
