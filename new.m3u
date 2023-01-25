@@ -1,10 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-1  tvg-id="1" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sun_udaya_tv.png" group-title="Kannada",Udaya
-http://xtv.ooo:8080/754456646/175557577/244705
+http://xtv.ooo:8080/754456646/175557577/244705.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png" group-title="Kannada",Udaya Comedy
-http://xtv.ooo:8080/754456646/175557577/244719
+http://xtv.ooo:8080/754456646/175557577/244719.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada",Zee Kannada HD
-http://xtv.ooo:8080/754456646/175557577/244702
+http://xtv.ooo:8080/754456646/175557577/244702.m3u8
 #EXTINF:-1  tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://localhost:8080/tsjiotv/live.php?c=Colors_HD&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD
