@@ -2,9 +2,9 @@
 #EXTINF:-1  tvg-id="1" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sun_udaya_tv.png" group-title="Kannada",Udaya
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/1002.ts
 #EXTINF:-1  tvg-id="2" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/kannadaudayacomdy.png" group-title="Kannada",Udaya Comedy
-http://starshare.live:8080/live/Samantha/Samantha/98889.m3u8
+http://starshare.live:8080/live/Samantha/Samantha/9447.ts
 #EXTINF:-1  tvg-id="3" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee-kannada-in.png" group-title="Kannada",Zee Kannada HD
-http://xtv.ooo:8080/754456646/175557577/244702.m3u8
+http://xtv.ooo:8080/754456646/175557577/244702
 #EXTINF:-1  tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://localhost:8080/tsjiotv/live.php?c=Colors_HD&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="5" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",Sony HD
@@ -171,8 +171,8 @@ http://localhost:8080/tsjiotv/live.php?c=DD_News&q=1200&e=junk.m3u8
 http://localhost:8080/tsjiotv/live.php?c=Raj_News_Kannada&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="86" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News",Raj News 24x7
 http://localhost:8080/tsjiotv/live.php?c=Raj_News_24x7&q=1200&e=junk.m3u8
-#EXTINF:-1  tvg-id="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Kids",Sony Yay Telugu
-http://localhost:8080/tsjiotv/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1  tvg-id="87" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telug.png" group-title="Kids",Hungama
+http://xtv.ooo:8080/754456646/175557577/150480
 #EXTINF:-1  tvg-id="88" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr.
 http://localhost:8080/tsjiotv/live.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
 #EXTINF:-1  tvg-id="89" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD IP
