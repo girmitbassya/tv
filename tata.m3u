@@ -1,6 +1,6 @@
 
 #EXTM3U 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "kty":"oct", "k":"CsJ2qN4gE0QzpoznH4cP8Q", "kid":"aHY3AbwMTb663QUSXD+GjQ" }
+#KODIPROP:inputstream.adaptive.license_key=CsJ2qN4gE0QzpoznH4cP8Q:aHY3AbwMTb663QUSXD+GjQ" }
 #EXTINF:-1 tvg-id="ts618" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="TATA PLAY",TATA PLAY Beauty 
 https://delta14tatasky.akamaized.net/out/i/3399745.mpd
