@@ -1,6 +1,4 @@
-
-#EXTM3U 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CsJ2qN4gE0QzpoznH4cP8Q", "kid":"aHY3AbwMTb663QUSXD+GjQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ts618" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="TATA PLAY",TAA PLAY Beauty 
-https://delta14tatasky.akamaized.net/out/i/3399745.mpd 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png" group-title="",bitmovin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tsneh-auth.vercel.app/api/tsauth?id=618
+https://delta14tatasky.akamaized.net/out/i/3399745.mpd
