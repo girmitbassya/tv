@@ -1,7 +1,378 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HINDI" tvg-logo="" group-title="IND 🆚 SRILANKA",HINDI
-https://newtest.webtv1.lol/ddy4/premium12/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENGLISH" tvg-logo="" group-title="IND 🆚 SRILANKA",ENGLISH
-https://newtest.webtv1.lol/ddy4/premium12/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 1" tvg-logo="" group-title="IND 🆚 SRILANKA",LINK 1
-https://3uog.short.gy/LINK_2_BJ-2.m3u8
+#EXTM3U   url-tvg="https://botallen.live/epg.xml"     x-tvg-url="https://botallen.live/epg.xml"
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Border%E2%80%93Gavaskar_Trophy.jpg" group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट", STAR SPORTS 
+http://nex.4k-iptv.net/play/live.php?mac=00:1a:79:91:0d:90&stream=7892&extension=ts&play_token=qHZ9TlJeqW
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Border%E2%80%93Gavaskar_Trophy.jpg" group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट", STAR SPORTS HINDI
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:ed:96:09&stream=162693&extension=ts&play_token=2Cu7SCybNX
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , BT 50fps
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:c5:34:a3&stream=20360&extension=ts&play_token=1nBh1JOyus
+
+
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , STAR SPORTS 🔥
+http://psk-sdk.ddno.us:7070/play/live.php?mac=00:1a:79:55:3a:25&stream=149123&extension=ts&play_token=IDmBqEitFD
+
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , ASTRO CRICKET 🔥
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=186386&extension=ts&play_token=APS328FAYn
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , Sportsmax 
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=279267&extension=ts&play_token=Ljcp3epD8L
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट"  , STAR SPORTS HINDI🔥
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=275106&extension=ts&play_token=Jm4Ct70E8u
+
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , WILLOW HD 🔥
+http://eu.majes-line.co/play/live.php?mac=00:1a:79:b8:be:fc&stream=487787&extension=ts&play_token=DHvExNnJyk
+
+#EXTINF:-1 group-title="भारत-ऑस्ट्रेलिया दूसरा टेस्ट" , BT sport 
+http://x-media.tv:8880/megapages/SnwMqmjLmt/9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png" ,showbox music
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8?s=1655834878&e=1657130878&h=ffedbcc12c8010352e909d6f86f01083&hls_force_no_caption_tag=true&filter=(type!=%22audio%22||systemBitrate%3E128000)
+#EXTINF:-1 group-title="MUSIC"  , 9X Jalwa
+https://9xjalwa-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xJalwaSamsungIndia/master.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="MUSIC"  , 9XM Music
+https://9xm-samsungin.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xM_Samsung/master.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="MUSIC"  , 9X Tashan 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="MUSIC" ,  MTV Beats HD
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:55:51:C4&stream=156031&extension=ts
+#EXTINF:-1 group-title="MUSIC"  ,  B4U Music
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862632&extension=ts&play_token=KjnEL7ME3a
+#EXTINF:-1 group-title="MUSIC"  , Zing IN
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:55:51:C4&stream=3646R&extension=ts
+#EXTINF:-1 group-title="MUSIC"  , Mastiii
+http://prelive.club/play/live.php?mac=00:1a:79:78:47:55&stream=17060&extension=ts
+#EXTINF:-1 group-title="MUSIC"  ,  MTV HD Plus
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862690&extension=ts&play_token=g38w8tsKuv
+#EXTINF:-1 group-title="MUSIC"  ,  MTV Hindi
+http://branchezvousiptv.net/play/live.php?mac=00:1a:79:55:51:C4&stream=945762&extension=ts
+#EXTINF:-1 group-title="MUSIC"  , Music India
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=156056&extension=ts
+#EXTINF:-1 group-title="MUSIC"  ,MH1
+http://eu.majes-line.co/play/live.php?mac=00:1a:79:55:E8:4E&stream=281708&extension=ts
+#EXTINF:-1 group-title="MUSIC"  ,Balle Balle
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:0  group-title="MUSIC" ,PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC"  , PBN Music
+http://209.52.98.98/pbnmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC"  ,Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:-1 group-title="MUSIC"  ,WAH PUNJABI
+https://7mbd4noeq3gx-hls-live.wmncdn.net/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" ,   Colors TV HD 1
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862641&extension=ts&play_token=PJUJQOTx2I
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,    Zee TV HD
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862794&extension=ts&play_token=BE4KHmGBYi
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,    Sony TV HD 1
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,    Sony SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,  & TV HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274706&extension=ts&play_token=ysfLH5YGPe
+#EXTINF:-1 group-title="ENTERTAINMENT"  , DD National HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274810&extension=ts&play_token=AXNcexuI19
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,  Star Plus HD 1
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=275103&extension=ts&play_token=pNNbsN5XNS
+#EXTINF:-1 group-title="ENTERTAINMENT"  ,    Star Bharat HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=275098&extension=ts&play_token=NCrycWUbto
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  group-title="MOVIES" , Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 group-title="MOVIES"  , Sony Max HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 group-title="MOVIES"  , Sony Max 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 group-title="MOVIES"  , Sony Max
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 group-title="MOVIES"  ,  AIRTEL  MINIPLEX HD
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=156020&extension=ts
+#EXTINF:-1 group-title="MOVIES"  ,  & Pictures HD
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862617&extension=ts&play_token=tdXmPUyXER
+#EXTINF:-1 group-title="MOVIES",STAR GOLD 2
+http://cherryp.xyz:8880/play/live.php?mac=00:1a:79:ac:e5:5c&stream=862737&extension=ts
+#EXTINF:-1 group-title="MOVIES",Star Gold India HD
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862738&extension=ts&play_token=X3xRXklfCw
+#EXTINF:-1 group-title="MOVIES",Star Gold Select HD
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=280778&extension=ts
+#EXTINF:-1 group-title="MOVIES",UTV HD
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=156005&extension=ts
+#EXTINF:-1 group-title="MOVIES",Zee Action
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=156139&extension=ts
+#EXTINF:-1 group-title="MOVIES",Zee Bollywood
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=311859&extension=ts
+#EXTINF:-1 group-title="MOVIES",Zee Cinema HD
+http://branchezvousiptv.net/play/live.php?mac=00:1a:79:55:51:C4&stream=946345&extension=ts
+#EXTINF:-1 group-title="MOVIES"  , Pitaara
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0   group-title="MOVIES"  ,PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Zee Classic
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862790&extension=ts&play_token=6HnurCZWe6
+#EXTINF:-1 group-title="MOVIES"  ,    UTV Action
+http://prelive.club/play/live.php?mac=00:1a:79:78:47:55&stream=158463&extension=ts
+#EXTINF:-1 group-title="MOVIES"  ,    UTV Movies HD IN
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156033&extension=ts
+#EXTINF:-1 group-title="MOVIES" ,  Colors Cineplex
+http://branchezvousiptv.net/play/live.php?mac=00:1a:79:55:51:C4&stream=945891&extension=ts
+#EXTINF:-1 group-title="MOVIES"  ,  Zee Anmol Cinema
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156146&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS" ,Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="NEWS" ,Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="NEWS" ,TV9 Bharatvarsh
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=280908&extension=ts
+#EXTINF:-1 group-title="NEWS"  , ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF:-1 group-title="NEWS"  ,    NEWS 18 INDIA
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 group-title="NEWS"  ,    Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 group-title="NEWS"  ,  Zee UP UK
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156150&extension=ts
+#EXTINF:-1 group-title="NEWS"  ,  NDTV News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="NEWS"  , News 24
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156083&extension=ts
+#EXTINF:-1 group-title="NEWS"  ,   India TV IN
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156047&extension=ts
+#EXTINF:-1 group-title="NEWS",Times Now Navbharat
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=946297&extension=ts
+#EXTINF:-1 group-title="NEWS",Good News Today
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="NEWS"  , India news
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:52:94:4a&stream=156045&extension=ts
+#EXTINF:-1 group-title="NEWS"  ,  India News UP
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:52:94:4a&stream=156058&extension=ts
+#EXTINF:-1 group-title="NEWS"  , News State UK UP
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=280875&extension=ts
+#EXTINF:-1 group-title="NEWS" , News Nation
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156084&extension=ts
+#EXTINF:-1 group-title="NEWS"  , DD News
+http://epg.iptveros.com/play/live.php?mac=00:1a:79:8B:7E:27&stream=155978&extension=ts
+#EXTINF:-1 group-title="NEWS", Zee Hindustan
+http://itsidletime.xyz:25461/7DBnhhq86ybx/h6uvgP42ZYGg/69334
+#EXTINF:-1 group-title="NEWS"  , Sudarshan
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=156062&extension=ts
+#EXTINF:-1 group-title="NEWS"  , Sahara Samay Rastriya
+http://ott.topstb.net:8000/play/live.php?mac=00:1a:79:40:9a:7c&stream=178833&extension=ts&play_token=eRsPbD7yr5
+#EXTINF:-1 group-title="NEWS"  , SAHARA SAMAY UP
+http://ott.topstb.net:8000/play/live.php?mac=00:1a:79:40:9a:7c&stream=178838&extension=ts&play_token=MELK6Do2PE
+#EXTINF:-1 group-title="NEWS", ABP Ganga
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master_720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="KIDS" ,  Sony Yay
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862733&extension=ts&play_token=a3m2Gvi8pw
+#EXTINF:-1 group-title="KIDS"  ,    Cartoon Network Hindi
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862636&extension=ts&play_token=tixRnXUMju
+#EXTINF:-1 group-title="KIDS"  ,  CN HD+ English
+http://cherryp.xyz:8880/play/live.php?mac=00:1a:79:ac:e5:5c&stream=862635&extension=ts
+#EXTINF:-1 group-title="KIDS"  , Discovery Kids 2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 group-title="KIDS"  ,    DISNEY INTERNATIONAL HD
+http://iptvmedia.live:8080/1eae94e3/e22181ebb2/192985
+#EXTINF:-1 group-title="KIDS"  ,    DISNEY CHANNEL
+http://live.exodus-1.rocks:8080/play/live.php?mac=00:1a:79:03:7c:be&stream=1152206&extension=ts
+#EXTINF:-1 group-title="KIDS"  ,    DISNEY JUNIOR
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862662&extension=ts&play_token=F2GzP5goMn
+#EXTINF:-1 group-title="KIDS"  ,  DISNEY XD
+http://watchindia.net:8880/live/14100/70701/2066.ts
+#EXTINF:-1 group-title="KIDS"  ,HUNGAMA
+http://live.exodus-1.rocks:8080/play/live.php?mac=00:1a:79:03:7c:be&stream=1152191&extension=ts&play_token=WNrbtbqgWd
+#EXTINF:-1 group-title="KIDS"  , Nick HD Plus
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2237.ts
+#EXTINF:-1 group-title="KIDS"  ,  Nick Hindi
+http://cherryp.xyz:8880/play/live.php?mac=00:1a:79:ac:e5:5c&stream=862696&extension=ts
+#EXTINF:-1 group-title="KIDS"  , Nick Junior
+http://cherryp.xyz:8880/play/live.php?mac=00:1a:79:ac:e5:5c&stream=862697&extension=ts
+#EXTINF:-1 group-title="KIDS"  , Nickelodeon Jr.
+https://tv.media.jio.com/switch/bpk-tv/Nick_Junior_voot_MOB/output03/index.m3u8
+#EXTINF:-1 group-title="KIDS"  ,   NiCK SONIC
+https://tv.media.jio.com/switch/bpk-tv/Sonic_Nickelodeon_voot_MOB/output03/index.m3u8
+#EXTINF:-1 group-title="KIDS"  , Pogo Hindi
+http://live.exodus-1.rocks:8080/play/live.php?mac=00:1a:79:03:7c:be&stream=1152189&extension=ts&play_token=HMJYXQ9tu6
+#EXTINF:-1 group-title="KIDS"  ,    BABY TV
+http://cherryp.xyz:8880/play/live.php?mac=00:1a:79:ac:e5:5c&stream=862633&extension=ts
+#EXTINF:-1 group-title="KIDS"  ,ZooMoo HD
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",KETNET JUNIOR
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 group-title="KIDS",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="INFOTAINMENT" , History TV18 HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274875&extension=ts&play_token=jaE26I55GH
+#EXTINF:-1 group-title="INFOTAINMENT"  , Investigation Discovery
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="INFOTAINMENT"  , Discovery Channel Hindi
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="INFOTAINMENT"  ,  Animal Planet Hindi
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="INFOTAINMENT"  , Sony BBC Earth HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT"  ,Discovery Science
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="INFOTAINMENT"  ,Discovery Turbo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="INFOTAINMENT"  ,    NAT GEO WILD HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274952&extension=ts&play_token=sddqLI5Y5I
+#EXTINF:-1 group-title="INFOTAINMENT"  ,    National Geographic HD
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274953&extension=ts&play_token=lAadfdYr0G
+#EXTINF:-1 group-title="INFOTAINMENT" ,Travelxp HD
+http://tvplug.xyz:8880/play/live.php?mac=00:1a:79:33:aa:ef&stream=862970&extension=ts&play_token=oaRZXQtdvR
+#EXTINF:-1 group-title="INFOTAINMENT" ,HGTV
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=134133&extension=ts&play_token=n30nK9kj56
+#EXTINF:-1   group-title="INFOTAINMENT" channel-id="samsung-INBC1500004JR" tvg-id="INBC1500004JR" tvg-chno="1365" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/INBC1500004JR_20220427T054807.png" Lifestyle",TLC HD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORTS"  ,   Sony Ten 1 HD 1
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1 group-title="SPORTS"  ,   Sony Ten 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 group-title="SPORTS"  ,  Ten 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1 group-title="SPORTS",Ten 3
+https://bit.ly/2B9teN3sd
+#EXTINF:-1 group-title="SPORTS"  ,   Sony Six HD 1
+https://bit.ly/3h6sIXHd
+#EXTINF:-1 group-title="SPORTS"  ,   Star Sports 1 HD 1
+http://prelive.club/play/live.php?mac=00:1a:79:ba:81:6e&stream=29499&extension=ts&play_token=FNeM8x21lH
+#EXTINF:-1 group-title="SPORTS"  ,Star Sports 1 HD Hindi 1
+http://prelive.club/play/live.php?mac=00:1a:79:ba:81:6e&stream=29498&extension=ts&play_token=mD9HjRCkdm
+#EXTINF:-1 group-title="SPORTS"  ,   Star Sports 2 HD 1
+http://prelive.club/play/live.php?mac=00:1a:79:ba:81:6e&stream=29497&extension=ts&play_token=HL0QL0LwMs
+#EXTINF:-1 group-title="SPORTS"  ,Star Sports Select 1 HD 1
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=282675&extension=ts
+#EXTINF:-1 group-title="SPORTS"  ,Star Sports Select 2 HD
+http://mag.x-iptv.live/play/live.php?mac=00:1a:79:02:c9:fa&stream=282676&extension=ts
+#EXTINF:-1 group-title="SPORTS" ,Sports 18 1 HD 1 [WORLD CUP]
+http://live.exodus-1.rocks:8080/play/live.php?mac=00:1a:79:03:7c:be&stream=1152464&extension=ts&play_token=4ZBd0gvO0b
+#EXTINF:-1 group-title="SPORTS"  ,SuperSport Cricket FHD AF
+http://mag.you24.online:80/t6s6mbb5n/35412363/688714
+#EXTINF:-1 group-title="SPORTS" ,beIN Sports English 3 HD VIP AR
+http://mag.you24.online:80/t6s6mbb5n/35412363/689289
+#EXTINF:-1 group-title="SPORTS"  ,FOX CRICKET
+http://85.203.17.252/0350ADAD67A15C7/8XMg149r1N/83174?token=TxpdWURcFwwUB1BSUAcOUw1fB1RUAVUKXVUAVVMAUFMFXlZeUlYDUlBAGBUVQEtXWQtuDwATCQAKAgRXTkRGQVFKalFTFg8UBVQFAV8FChAUREUPCVQRAggFBFJXVgoGAA0ZGkddURQMQA0DVQwIARpKEwMcRVZKV1JfPAYDRVtXXRcCWUFZWhpAW1k5UFxfWQhVRF4TAhoVEVoQEkQJXEFUWRQVVlxCRANAUkQOV0dUCh1EB15GVk1BSkFYRHp8FhQXXU9AUFhFC1tZRA4bRktEHUQNQmxKXEBHEQcHXldGGg8aBxYZFFsDTGgFW1dcXQVFDwtfQBoDEQJBTkReXVpRQVdFa0VfUkAOFV8ACgoIUxMb
+#EXTINF:-1 group-title="SPORTS"  ,A SPORTS HD PK
+http://prelive.club/play/live.php?mac=00:1a:79:E8:AC:CC&stream=286233&extension=ts
+#EXTINF:-1 group-title="SPORTS"  ,PTV Sports HD PK
+http://prelive.club/play/live.php?mac=00:1a:79:E8:AC:CC&stream=7803&extension=ts
+#EXTINF:-1 group-title="SPORTS"  ,TEN SPORTS PK
+http://prelive.club/play/live.php?mac=00:1a:79:E8:AC:CC&stream=7828&extension=ts
+#EXTINF:-1 group-title="SPORTS"  ,  DD Sports
+http://tv.mak1.net:8080/play/live.php?mac=00:1a:79:b1:f2:f2&stream=274821&extension=ts&play_token=6OR9xS6oM3 
+#EXTINF:-1 group-title="SPORTS"  ,US: Willow
+http://prelive.club/play/live.php?mac=00:1a:79:C7:0e:D8&stream=161949&extension=ts
+#EXTINF:-1 group-title="SPORTS" ,Sky Sports Cricket FHD VIP UK
+http://prelive.club/play/live.php?mac=00:1a:79:17:22:f0&stream=7958&extension=ts
+#EXTINF:-1 group-title="SPORTS",Astro Cricket HD VIP MY
+http://prelive.club/play/live.php?mac=00:1a:79:78:47:55&stream=161944&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" ,Sony Max Hd
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" ,Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" ,Sony Hd
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" ,Sony Sab
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" ,Sony pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" ,Sony Ten 2 Hd
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Ten 3 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" ,Sony Ten 3 Hd
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N" tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" ,Sony Six Sd
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1, group-title="SONYLIV N"  #EXTINF:-1, group-title="SPORTS",SONY TEN 1 HD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
